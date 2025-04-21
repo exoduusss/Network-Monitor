@@ -35,4 +35,4 @@ The monitor provides a REST API accessible at `http://localhost:<your_api_port>`
 
 ## License
 
-[MIT License](LICENSE) (You might want to add a LICENSE file later)
+[MIT License](LICENSE)
